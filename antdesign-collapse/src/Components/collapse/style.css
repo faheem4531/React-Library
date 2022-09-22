@@ -1,0 +1,40 @@
+.content-container
+.ant-collapse.ant-collapse-icon-position-start {
+padding: 20px 0px 20px 0px !important;
+}
+
+
+.heading{
+  border-bottom: 1px solid grey;
+  padding-bottom: 10px;
+  color: #333333;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.lists
+.ant-collapse-header{
+
+  color: #333333 !important;
+  letter-spacing: 0.04em !important;
+  font-weight: 400 !important;
+  font-size: 20px !important;
+  line-height: 30px !important;
+  text-align: left !important;
+
+}
+
+.ant-collapse-header-text{
+  padding-left: 15% !important;
+}
+
+.ant-collapse{
+  border-bottom: 1px solid #d9d9d9 !important;
+}
+
+.ant-collapse-item.lists
+{
+    
+  border-bottom: none !important;
+}
