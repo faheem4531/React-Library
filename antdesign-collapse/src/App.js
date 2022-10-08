@@ -1,3 +1,4 @@
+import React from 'react';
 import MainScreen from './homeScreen';
 
 function App() {
